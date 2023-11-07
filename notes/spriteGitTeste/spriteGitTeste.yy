@@ -1,7 +1,7 @@
 {
   "resourceType": "GMNotes",
   "resourceVersion": "1.1",
-  "name": "testa",
+  "name": "spriteGitTeste",
   "parent": {
     "name": "Sprites",
     "path": "folders/Sprites.yy",
