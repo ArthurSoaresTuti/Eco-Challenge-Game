@@ -36,6 +36,7 @@
   "resources": [
     {"id":{"name":"Sprite21","path":"sprites/Sprite21/Sprite21.yy",},},
     {"id":{"name":"Object42","path":"objects/Object42/Object42.yy",},},
+    {"id":{"name":"Object48","path":"objects/Object48/Object48.yy",},},
     {"id":{"name":"Room18","path":"rooms/Room18/Room18.yy",},},
     {"id":{"name":"Next_2","path":"objects/Next_2/Next_2.yy",},},
     {"id":{"name":"Object11","path":"objects/Object11/Object11.yy",},},
@@ -89,6 +90,7 @@
     {"id":{"name":"Sprite8","path":"sprites/Sprite8/Sprite8.yy",},},
     {"id":{"name":"Sprite30","path":"sprites/Sprite30/Sprite30.yy",},},
     {"id":{"name":"Object38","path":"objects/Object38/Object38.yy",},},
+    {"id":{"name":"Extension1","path":"extensions/Extension1/Extension1.yy",},},
     {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},},
     {"id":{"name":"Object15","path":"objects/Object15/Object15.yy",},},
     {"id":{"name":"Sprite22","path":"sprites/Sprite22/Sprite22.yy",},},
