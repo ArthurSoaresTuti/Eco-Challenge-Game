@@ -12,6 +12,8 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"datafiles","order":16,"path":"folders/datafiles.yy",},
+    {"name":"python","order":1,"path":"folders/datafiles/python.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"Sprite21","order":20,"path":"sprites/Sprite21/Sprite21.yy",},
@@ -64,6 +66,7 @@
     {"name":"dialogo","order":31,"path":"objects/dialogo/dialogo.yy",},
     {"name":"Object5","order":3,"path":"objects/Object5/Object5.yy",},
     {"name":"Object40","order":39,"path":"objects/Object40/Object40.yy",},
+    {"name":"Extension1","order":1,"path":"extensions/Extension1/Extension1.yy",},
     {"name":"Object46","order":46,"path":"objects/Object46/Object46.yy",},
     {"name":"Object9","order":7,"path":"objects/Object9/Object9.yy",},
     {"name":"Object36","order":35,"path":"objects/Object36/Object36.yy",},
