@@ -2,14 +2,14 @@ if (ds_map_find_value(async_load, "id") == get) {
 
 	if (ds_map_find_value(async_load, "status") == 0) {
 		
-		var response_string = ds_map_find_value(async_load, "result");
-		var resultMap = json_decode(response_string);
-		var humidity  = resultMap[? "main"][? "humidity"];
+		global.response_string = ds_map_find_value(async_load, "result");
+		global.resultMap = json_decode(global.response_string);
+		global.humidity  = global.resultMap[? "main"][? "humidity"];
 		
-		show_message(response_string);
-		show_message(humidity);
+		show_message(global.response_string);
+		show_message(global.humidity);
 			
-		
+		room_goto_next();
 	}
 
 }
