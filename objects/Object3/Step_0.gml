@@ -1,4 +1,4 @@
-if (distance_to_object(Object27) <= 20){
+if (distance_to_object(obj_Person_M) <= 20){
 	
 }
 else{

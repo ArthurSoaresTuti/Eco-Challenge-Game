@@ -13,7 +13,7 @@
   "isDnd": false,
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances_2","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_D29CBDF","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Object47","path":"objects/Object47/Object47.yy",},"properties":[],"rotation":0.0,"scaleX":25.0,"scaleY":25.0,"x":-288.0,"y":-480.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_D29CBDF","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_trofeu","path":"objects/obj_trofeu/obj_trofeu.yy",},"properties":[],"rotation":0.0,"scaleX":25.0,"scaleY":25.0,"x":-288.0,"y":-480.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances_1","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5A6EB585","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Object46","path":"objects/Object46/Object46.yy",},"properties":[],"rotation":0.0,"scaleX":1.3166667,"scaleY":1.3555555,"x":-128.0,"y":-96.0,},
@@ -23,7 +23,7 @@
   ],
   "parent": {
     "name": "Rooms",
-    "path": "folders/Paths/Rooms.yy",
+    "path": "folders/Rooms.yy",
   },
   "parentRoom": null,
   "physicsSettings": {
