@@ -21,7 +21,10 @@ When the player selects the neighborhood, the game will call an asynchronous eve
 # Welcome message.
 ![image](https://github.com/ArthurSoaresTuti/Eco-Challenge-Game/assets/85973512/24771226-3085-422f-9c85-66c9a50e0a84)
 
-# This is one of the first screens of the game, where even before solving the challenges, the player will see information related to their neighborhood data, this information is taken from the JSON query that was requested on the neighborhood selection page.
+
+# First page that displays neighborhood data.
+
+This is one of the first screens of the game, where even before solving the challenges, the player will see information related to their neighborhood data, this information is taken from the JSON query that was requested on the neighborhood selection page.
 
 ![image](https://github.com/ArthurSoaresTuti/Eco-Challenge-Game/assets/85973512/fe651cfd-478c-45d5-961b-b72181742c12)
 
