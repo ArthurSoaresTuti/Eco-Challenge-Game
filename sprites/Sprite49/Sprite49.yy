@@ -25,8 +25,13 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
+<<<<<<< HEAD
     "name": "Sprites",
     "path": "folders/Sprites.yy",
+=======
+    "name": "Objects",
+    "path": "folders/Objects.yy",
+>>>>>>> 4bf29c9aa6732ab514afdd201b28bc14b2b1a57d
   },
   "preMultiplyAlpha": false,
   "sequence": {

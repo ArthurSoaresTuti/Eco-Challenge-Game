@@ -19,7 +19,11 @@
   ],
   "parent": {
     "name": "Rooms",
+<<<<<<< HEAD
     "path": "folders/Rooms.yy",
+=======
+    "path": "folders/Paths/Rooms.yy",
+>>>>>>> 4bf29c9aa6732ab514afdd201b28bc14b2b1a57d
   },
   "parentRoom": null,
   "physicsSettings": {

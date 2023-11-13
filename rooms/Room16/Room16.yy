@@ -42,7 +42,11 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_C3C193E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Object40","path":"objects/Object40/Object40.yy",},"properties":[],"rotation":0.0,"scaleX":3.56,"scaleY":3.56,"x":1309.0,"y":-45.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
+<<<<<<< HEAD
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4EA9C505","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_Person_M","path":"objects/obj_Person_M/obj_Person_M.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":75.0,"y":667.0,},
+=======
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4EA9C505","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Object27","path":"objects/Object27/Object27.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":75.0,"y":667.0,},
+>>>>>>> 4bf29c9aa6732ab514afdd201b28bc14b2b1a57d
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_BCBC8C2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Object35","path":"objects/Object35/Object35.yy",},"properties":[],"rotation":0.0,"scaleX":0.3333,"scaleY":0.32,"x":1333.0,"y":-103.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances_1","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
@@ -73,7 +77,11 @@
   ],
   "parent": {
     "name": "Rooms",
+<<<<<<< HEAD
     "path": "folders/Rooms.yy",
+=======
+    "path": "folders/Paths/Rooms.yy",
+>>>>>>> 4bf29c9aa6732ab514afdd201b28bc14b2b1a57d
   },
   "parentRoom": null,
   "physicsSettings": {

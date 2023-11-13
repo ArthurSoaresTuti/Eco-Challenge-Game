@@ -121,7 +121,11 @@
   "maintainGms1Font": false,
   "parent": {
     "name": "Fonts",
+<<<<<<< HEAD
     "path": "folders/Fonts.yy",
+=======
+    "path": "folders/Animation Curves/Fonts.yy",
+>>>>>>> 4bf29c9aa6732ab514afdd201b28bc14b2b1a57d
   },
   "pointRounding": 0,
   "ranges": [

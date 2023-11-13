@@ -22,6 +22,7 @@
   "layers": [
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"ef475b51-d494-4ba5-9b7a-5f8c735029e2","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
+<<<<<<< HEAD
   "nineSlice": {
     "resourceType": "GMNineSliceData",
     "resourceVersion": "1.0",
@@ -46,6 +47,9 @@
     ],
     "top": 0,
   },
+=======
+  "nineSlice": null,
+>>>>>>> 4bf29c9aa6732ab514afdd201b28bc14b2b1a57d
   "origin": 4,
   "parent": {
     "name": "Sprites",
