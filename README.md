@@ -18,6 +18,10 @@ When the player selects the neighborhood, the game will call an asynchronous eve
 
 ![image](https://github.com/ArthurSoaresTuti/Eco-Challenge-Game/assets/85973512/eb4b0f0c-67ec-4f69-9b3a-09cb15a3fca6)
 
+# Welcome message.
+![image](https://github.com/ArthurSoaresTuti/Eco-Challenge-Game/assets/85973512/24771226-3085-422f-9c85-66c9a50e0a84)
+
+
 
 
 
